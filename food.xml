@@ -1,0 +1,27 @@
+<menu>
+  <food>
+    <name>French fries</name>
+    <price>$5</price>
+    <calorie>300</calorie>
+  </food>
+  <food>
+    <name>Tom Yum Kung</name>
+    <price>$20</price>
+    <calorie>815</calorie>
+  </food>
+  <food>
+    <name>Corn dog</name>
+    <price>$10</price>
+    <calorie>260</calorie>
+  </food>
+  <food>
+    <name>Caesar salad</name>
+    <price>$15</price>
+    <calorie>44</calorie>
+  </food>
+  <food>
+    <name>Popcorn</name>
+    <price>$4</price>
+    <calorie>370</calorie>
+  </food>
+</menu>
